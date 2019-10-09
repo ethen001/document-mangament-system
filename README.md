@@ -6,10 +6,10 @@ This is a desktop application created in Java that provides the functionality of
 ## Built With:
 Java, JavaFX, MySQL
 
-##Getting Started
+## Getting Started
 Make sure you create a MySQL database and install JavaFX before you execute the app.
 
-##Deployment
+## Deployment
 For now, the app cannot be deployed to the server. I might implement it for a future version
 
 ## Author
@@ -21,5 +21,31 @@ Jonathan Tran
 Kieran Duggan
 
 ## Feature Previews
+This are some of the key features of the application. It implements a document history system similar to Github in which I keep track of changes made in a separete history file.
+
 ### Sign Up
-![](https://i.imgur.com/tg2FWY8.gif)
+![](/signup.gif)
+
+### login
+![](/login.gif)
+
+### Visitor Profile
+![](/visitor.gif)
+
+### User Management
+![](/user-management.gif)
+
+### Creating Documents
+![](/create-doc.gif)
+
+### Document History
+![](/retreive-old-version.gif)
+
+### Share Document
+![](/sharing-files.gif)
+
+### Accepting invitations
+![](/unsharing-docs.gif)
+
+### Unsharing Documents
+![](/unsharing-docs.gif)
