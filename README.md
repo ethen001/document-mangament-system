@@ -12,10 +12,8 @@ Make sure you create a MySQL database and install JavaFX before you execute the 
 ## Deployment
 For now, the app cannot be deployed to the server. I might implement it for a future version
 
-## Author
+## Authors
 Enger L Then
-
-##Contributors
 Steven Melamud
 Jonathan Tran
 Kieran Duggan
